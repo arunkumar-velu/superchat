@@ -1,2 +1,2 @@
 # superchat
-super chat
+super chat react app
